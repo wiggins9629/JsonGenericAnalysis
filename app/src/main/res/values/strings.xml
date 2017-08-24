@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JsonGenericAnalysis</string>
+
+    <string name="title">泛型解析JSON数据封装</string>
+    <string name="loading">正在加载中，请稍后...</string>
+
+    <string name="raw_data">原始数据</string>
+    <string name="parsing_data">解析数据</string>
+    <string name="data_format">JSON数据类型如下:</string>
+    <string name="data"># 第%1$s种</string>
+</resources>
